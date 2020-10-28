@@ -19,6 +19,7 @@
         <module>output-tasks</module>
         <module>variables-and-data-types-and-operators</module>
         <module>homework3</module>
+        <module>homework4</module>
         <!-- add some modules -->
         <!-- ... -->
     </modules>
